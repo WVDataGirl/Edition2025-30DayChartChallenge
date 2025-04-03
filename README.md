@@ -33,6 +33,10 @@ Topics](list_prompts.md)
 
 ## Contributions
 
+Here are all the prompts for this year's edition:
+
+![](img/prompts.png)
+
 Collection of all contributions per day. For now just named
 images in a folder---hopefully going to clean it up once the challenge
 is over.
